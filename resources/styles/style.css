@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+/* Header */
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+
+/* Main's section */
+main video{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+section h2, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
+}
+
+section img{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+/* footer's section  */
+footer{
+    text-align: right;
+    color: gray;
+}
+
+
+
+/* Classes */
+
+.download{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/* ID */
+#icon{
+   margin-top: 20px;
+   border-radius: 0;
+}
+
